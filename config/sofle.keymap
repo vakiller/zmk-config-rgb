@@ -78,7 +78,7 @@
 //                |      |       |       |      |      |  |      |      |      |       |      |
             bindings = <
 &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4                  &trans    &trans    &trans   &kp MINUS    &kp EQUAL  &kp BSPC
-&trans     &kp INS      &kp PSCRN    &kp K_CMENU  &trans       &trans                        &kp PG_UP &kp UP    &trans   &kp LBKT  &kp RBKT  &kp BSLH
+&bt BT_CLR_ALL &kp INS      &kp PSCRN    &kp K_CMENU  &trans       &trans                        &kp PG_UP &kp UP    &trans   &kp LBKT  &kp RBKT  &kp BSLH
 &kp CLCK     &kp LALT     &kp LCTRL    &kp LSHFT    &trans       &kp CLCK                      &kp LEFT &kp DOWN  &kp RIGHT &trans &kp DEL &kp BSPC
 &trans     &kp K_UNDO   &kp K_CUT    &kp K_COPY   &kp K_PASTE  &trans        &trans  &trans  &kp PG_DN   &trans    &trans   &trans    &trans  &trans
                         &trans       &trans       &trans       &trans        &trans  &trans  &trans    &trans    &trans   &trans
